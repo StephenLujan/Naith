@@ -1,0 +1,6 @@
+*.pyc
+*.blend1
+game/cache/
+naith.p3d
+*.p12
+*.pem
